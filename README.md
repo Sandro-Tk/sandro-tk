@@ -41,7 +41,7 @@
 - 🔹 **[Budget Management Application](https://github.com/sandro-tk/expenza)**  
   A web application designed to help users track their expenses, income, manage budgets and analyze their financial data.
 
-- 🔹 **[Budget Management Application](https://github.com/sandro-tk/expenza)**  
+- 🔹 **[Hotel Task Management App](https://github.com/Sandro-Tk/the-wild-oasis)**  
   The main project in Jonas Schmedtmann's Ultimate React Course. Built with react query and supabase.
 
 - 🔹 **[Task Management App](https://github.com/sandro-tk/RedberryProject)**  
